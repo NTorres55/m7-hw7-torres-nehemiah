@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  text-align: center;
+  background: #fffffe;
+  font-family: 'Bungee', cursive;
+  margin: auto;
+  font-size: 25px;
+  color: #435363;
+  text-shadow: 1.5px 1.5px  white;
+  background-color: #87D6EF;
+}
+h1 {
+  color: #435363;
+  text-transform: uppercase;
+  font-size: 35px;
+  text-shadow: 2px 2px pink;
+}
